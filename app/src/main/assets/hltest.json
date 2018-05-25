@@ -1,0 +1,1300 @@
+{
+	"explain_video": {
+		"21": {
+			"url": "http:\/\/source.hotbody.cn\/QKqhybCV-FHan-Qp2D-ZXWT-ine98XuHcdcX.mp4",
+			"size": "1680716"
+		},
+		"22": {
+			"url": "http:\/\/source.hotbody.cn\/lH9MmHid-wA31-WLt7-IwRe-D2UQlQT6xh9B.mp4",
+			"size": "1630127"
+		},
+		"23": {
+			"url": "http:\/\/source.hotbody.cn\/Grx3QmJA-iKcQ-AW1S-SG9M-lra9SbzGJoHT.mp4",
+			"size": "2890298"
+		},
+		"24": {
+			"url": "http:\/\/source.hotbody.cn\/wJiHJTDy-gOPR-e7Ro-6hpP-FNNdrLMbmfXL.mp4",
+			"size": "2201633"
+		},
+		"25": {
+			"url": "http:\/\/source.hotbody.cn\/HZ0I6hB1-E6to-2tIw-zImz-ZSJeS0Q2irlS.mp4",
+			"size": "2506945"
+		},
+		"26": {
+			"url": "http:\/\/source.hotbody.cn\/T8tJKWtO-ikdi-knIF-RwaX-MiDLw5am00ew.mp4",
+			"size": "2755477"
+		},
+		"27": {
+			"url": "http:\/\/source.hotbody.cn\/bcUHaUIs-9c6M-zl5v-VGg8-BdGvTOv38aTp.mp4",
+			"size": "1908869"
+		},
+		"28": {
+			"url": "http:\/\/source.hotbody.cn\/TEqgJRhG-yPFG-40G9-IVwH-Tzs7CmxiPZT4.mp4",
+			"size": "2173208"
+		},
+		"38": {
+			"url": "",
+			"size": "0"
+		}
+	},
+	"audio": [{
+		"name": "第一个动作 long",
+		"url": "http:\/\/source.hotbody.cn\/wRlnNEm2-Ix91-eicp-4fP1-6GSkPTlfQV4w.m4a",
+		"start_at": 0,
+		"due": 1509,
+		"size": "10426",
+		"md5": "0f1d8b66e802ba64c51f7c390044cca2",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "快速出拳",
+		"url": "http:\/\/source.hotbody.cn\/EArtbETt-nx0o-RETm-3UeV-v8OwfT6Jm6my.m4a",
+		"start_at": 1509,
+		"due": 1811,
+		"size": "15179",
+		"md5": "ebc61a859691b40b810d48033b639257",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 3320,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "快速出拳",
+		"url": "http:\/\/source.hotbody.cn\/vxRMWFIE-DcCJ-4gBr-N6Oz-yNxT43bTiQcC.m4a",
+		"start_at": 9560,
+		"due": 60070,
+		"size": "164088",
+		"md5": "e6f2a922bb261c3f7680c6d20e39645b",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 69630,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 129630,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "熊爬",
+		"url": "http:\/\/source.hotbody.cn\/QsDmsAlK-EUh9-y6W9-mfFo-gvxSv0GhMcJI.m4a",
+		"start_at": 131441,
+		"due": 1462,
+		"size": "11170",
+		"md5": "",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 132903,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "熊爬",
+		"url": "http:\/\/source.hotbody.cn\/PJJxQX2x-PtLw-ciLq-oWpf-8DurSTrCypEz.m4a",
+		"start_at": 139143,
+		"due": 60070,
+		"size": "612244",
+		"md5": "81d002f1edad504f359eea4be3fb4c86",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 199213,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 259213,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "简化波比",
+		"url": "http:\/\/source.hotbody.cn\/mwJEB3Ef-PiRQ-N9MS-zJtf-kaUrVieQ0A5R.m4a",
+		"start_at": 261024,
+		"due": 2066,
+		"size": "17438",
+		"md5": "855dfb5ff74df2d4cfabbcb5ba6b452b",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 263090,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "简化波比",
+		"url": "http:\/\/source.hotbody.cn\/aLKARzuR-wOlO-RcMF-BiWG-nKBv2Jex94Th.m4a",
+		"start_at": 269330,
+		"due": 60070,
+		"size": "177116",
+		"md5": "26c6da43a71aa5f23128f5bb169e3d5b",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 329400,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 389400,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "登山",
+		"url": "http:\/\/source.hotbody.cn\/fHfx1IGu-Thz8-Ec01-Wvsi-EykIm29S0fDw.m4a",
+		"start_at": 391211,
+		"due": 1253,
+		"size": "8443",
+		"md5": "",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 392464,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "登山",
+		"url": "http:\/\/source.hotbody.cn\/t6TuQ48b-D5c4-IsDc-xtun-k9mtzpumD6sM.m4a",
+		"start_at": 398704,
+		"due": 60070,
+		"size": "112796",
+		"md5": "e2ae7cf6296d81bc496206d9f6ea87a9",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 458774,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 518774,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "后踢腿",
+		"url": "http:\/\/source.hotbody.cn\/56kqZHlf-MfKz-uStd-qcSp-DXg8IytXuRtF.m4a",
+		"start_at": 520585,
+		"due": 1695,
+		"size": "14197",
+		"md5": "",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 522280,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "后踢腿",
+		"url": "http:\/\/source.hotbody.cn\/QQ08RNSt-zd1T-dqT8-dTWP-NcyS6wJvTT16.m4a",
+		"start_at": 528520,
+		"due": 60070,
+		"size": "617153",
+		"md5": "a88a3ea2586ad51286cb0cbe4f1846b5",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 588590,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 648590,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "开合跳",
+		"url": "http:\/\/source.hotbody.cn\/Sav8pZKb-zW7f-qatu-m1w4-uaxTwORmtmKR.m4a",
+		"start_at": 650401,
+		"due": 1532,
+		"size": "11712",
+		"md5": "",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 651933,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "开合跳",
+		"url": "http:\/\/source.hotbody.cn\/mCaKkbNz-9TJr-T2ds-mq7l-5B4HGyfppX6l.m4a",
+		"start_at": 658173,
+		"due": 60070,
+		"size": "209074",
+		"md5": "7610a6210d35a565e92392d0d635cf49",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 718243,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 778243,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "前后交换跳",
+		"url": "http:\/\/source.hotbody.cn\/PC4FapFA-y6Xw-3xHi-NheS-gzp8LcGwbJOI.m4a",
+		"start_at": 780054,
+		"due": 2298,
+		"size": "20585",
+		"md5": "3ac88945302a086518e37d161fb09ee9",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 782352,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "前后交换跳",
+		"url": "http:\/\/source.hotbody.cn\/6EMEQGgb-GD1d-PyE4-T0O7-3QZqtvuyhMfh.m4a",
+		"start_at": 788592,
+		"due": 60070,
+		"size": "186696",
+		"md5": "87f6b5f9c38104a329080c994e6993c0",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/5t44dT5S-1DoO-Euew-Sq0G-TpgthJoZwTwo.m4a",
+		"start_at": 848662,
+		"due": 60000,
+		"size": "36802",
+		"md5": "c05be3b4add8ab61f083bb79b26f52eb",
+		"is_rest": true,
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "接下来训练 long",
+		"url": "http:\/\/source.hotbody.cn\/0OCFMvxN-IRal-25us-uTtA-hwIhJa1qCVBf.m4a",
+		"start_at": 908662,
+		"due": 1811,
+		"size": "14981",
+		"md5": "d1f7cad6ef38b7aa1d52baf6c408fb8d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "拳击跳出拳",
+		"url": "http:\/\/source.hotbody.cn\/zXo1oPBx-W6cZ-tK8U-C1uR-4nEav9iKCVwN.m4a",
+		"start_at": 910473,
+		"due": 2368,
+		"size": "21266",
+		"md5": "59658df6b7f6e2fc40e871a484141ae6",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "60秒 long",
+		"url": "http:\/\/source.hotbody.cn\/Me2IT0rH-kEAm-NOxV-pWRp-XXZ6V4D9KLbV.m4a",
+		"start_at": 912841,
+		"due": 6240,
+		"size": "11692",
+		"md5": "2845aef2b2860c173b288be23837583d",
+		"type": "init",
+		"stop_bg_music": false,
+		"debug_type": "init"
+	}, {
+		"name": "拳击跳出拳",
+		"url": "http:\/\/source.hotbody.cn\/1kzaLlru-UWp3-dfLF-DvnW-IXaxmO2V5Tmm.m4a",
+		"start_at": 919081,
+		"due": 60070,
+		"size": "190332",
+		"md5": "8be746536006f5ab5a3cced449527e17",
+		"type": "video",
+		"stop_bg_music": false,
+		"debug_type": "video"
+	}],
+	"video": [{
+		"name": "快速出拳",
+		"url": "http:\/\/source.hotbody.cn\/KVTnPV6i-6BfI-EnRm-PdOD-TnQOIZ21u382.mp4",
+		"start_at": 0,
+		"due": 9560,
+		"calorie": 0,
+		"md5": "2431eeafeffa53faa18cdde999d8b729",
+		"action_video_due": "13920",
+		"size": "1127902",
+		"action_id": "21",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "快速出拳",
+		"url": "http:\/\/source.hotbody.cn\/KVTnPV6i-6BfI-EnRm-PdOD-TnQOIZ21u382.mp4",
+		"start_at": 9560,
+		"due": 60070,
+		"calorie": "15",
+		"md5": "2431eeafeffa53faa18cdde999d8b729",
+		"action_video_due": "13920",
+		"size": "1127902",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "21"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 69630,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "熊爬",
+		"url": "http:\/\/source.hotbody.cn\/UEzyrQP7-FTHI-Vu35-8wus-ZRULqamW31X9.mp4",
+		"start_at": 129630,
+		"due": 9513,
+		"calorie": 0,
+		"md5": "",
+		"action_video_due": "28560",
+		"size": "1491717",
+		"action_id": "22",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "熊爬",
+		"url": "http:\/\/source.hotbody.cn\/UEzyrQP7-FTHI-Vu35-8wus-ZRULqamW31X9.mp4",
+		"start_at": 139143,
+		"due": 60070,
+		"calorie": "25",
+		"md5": "",
+		"action_video_due": "28560",
+		"size": "1491717",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "22"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 199213,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "简化波比",
+		"url": "http:\/\/source.hotbody.cn\/a7KhZhNb-b6lT-v8D6-2PB6-G0KOPlCEEEHH.mp4",
+		"start_at": 259213,
+		"due": 10117,
+		"calorie": 0,
+		"md5": "5f98977ace12c48c4f9e453f9552fd99",
+		"action_video_due": "17400",
+		"size": "1366984",
+		"action_id": "23",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "简化波比",
+		"url": "http:\/\/source.hotbody.cn\/a7KhZhNb-b6lT-v8D6-2PB6-G0KOPlCEEEHH.mp4",
+		"start_at": 269330,
+		"due": 60070,
+		"calorie": "25",
+		"md5": "5f98977ace12c48c4f9e453f9552fd99",
+		"action_video_due": "17400",
+		"size": "1366984",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "23"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 329400,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "登山",
+		"url": "http:\/\/source.hotbody.cn\/hFyU8aZv-VM2U-g7l9-J3l4-OTiAvdE5M6su.mp4",
+		"start_at": 389400,
+		"due": 9304,
+		"calorie": 0,
+		"md5": "33463669ebf169279afb7d91946d45f5",
+		"action_video_due": "11240",
+		"size": "829370",
+		"action_id": "24",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "登山",
+		"url": "http:\/\/source.hotbody.cn\/hFyU8aZv-VM2U-g7l9-J3l4-OTiAvdE5M6su.mp4",
+		"start_at": 398704,
+		"due": 60070,
+		"calorie": "20",
+		"md5": "33463669ebf169279afb7d91946d45f5",
+		"action_video_due": "11240",
+		"size": "829370",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "24"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 458774,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "后踢腿",
+		"url": "http:\/\/source.hotbody.cn\/BIRzxsfX-xLeI-qu2L-JVtf-FeFkTQrBycvL.mp4",
+		"start_at": 518774,
+		"due": 9746,
+		"calorie": 0,
+		"md5": "69d79a022851af86a41353401cdb10eb",
+		"action_video_due": "13840",
+		"size": "1049350",
+		"action_id": "25",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "后踢腿",
+		"url": "http:\/\/source.hotbody.cn\/BIRzxsfX-xLeI-qu2L-JVtf-FeFkTQrBycvL.mp4",
+		"start_at": 528520,
+		"due": 60070,
+		"calorie": "20",
+		"md5": "69d79a022851af86a41353401cdb10eb",
+		"action_video_due": "13840",
+		"size": "1049350",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "25"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 588590,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "开合跳",
+		"url": "http:\/\/source.hotbody.cn\/88ksXyzt-XxK3-ZOX8-ZDLO-FSo5Hd8DHHAE.mp4",
+		"start_at": 648590,
+		"due": 9583,
+		"calorie": 0,
+		"md5": "70872d66c05aa9cc83d31ec0aef4181f",
+		"action_video_due": "11880",
+		"size": "1068467",
+		"action_id": "26",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "开合跳",
+		"url": "http:\/\/source.hotbody.cn\/88ksXyzt-XxK3-ZOX8-ZDLO-FSo5Hd8DHHAE.mp4",
+		"start_at": 658173,
+		"due": 60070,
+		"calorie": "20",
+		"md5": "70872d66c05aa9cc83d31ec0aef4181f",
+		"action_video_due": "11880",
+		"size": "1068467",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "26"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 718243,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "前后交换跳",
+		"url": "http:\/\/source.hotbody.cn\/LsSl44dP-EqAK-Ha8c-WMfG-lm8vNMfEARCz.mp4",
+		"start_at": 778243,
+		"due": 10349,
+		"calorie": 0,
+		"md5": "",
+		"action_video_due": "11880",
+		"size": "831089",
+		"action_id": "27",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "前后交换跳",
+		"url": "http:\/\/source.hotbody.cn\/LsSl44dP-EqAK-Ha8c-WMfG-lm8vNMfEARCz.mp4",
+		"start_at": 788592,
+		"due": 60070,
+		"calorie": "20",
+		"md5": "",
+		"action_video_due": "11880",
+		"size": "831089",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "27"
+	}, {
+		"name": "休息",
+		"url": "http:\/\/source.hotbody.cn\/VTLFv3zh-d1Zy-LxMq-oJP1-SRqAfWQ8JlP7.mp4",
+		"start_at": 848662,
+		"due": 60000,
+		"calorie": 0,
+		"md5": "92be65b640f4351874c1feca82835a17",
+		"action_video_due": "4920",
+		"size": "83757",
+		"type": "preview",
+		"debug_type": "preview",
+		"is_rest": true,
+		"action_id": "38"
+	}, {
+		"name": "拳击跳出拳",
+		"url": "http:\/\/source.hotbody.cn\/2TBxwesK-orOR-yTD1-sNkT-h2Kthhy7uMZp.mp4",
+		"start_at": 908662,
+		"due": 10419,
+		"calorie": 0,
+		"md5": "88facdeaea76c6634ed0a64e94dd50bf",
+		"action_video_due": "13680",
+		"size": "963321",
+		"action_id": "28",
+		"type": "preview",
+		"debug_type": "preview"
+	}, {
+		"name": "拳击跳出拳",
+		"url": "http:\/\/source.hotbody.cn\/2TBxwesK-orOR-yTD1-sNkT-h2Kthhy7uMZp.mp4",
+		"start_at": 919081,
+		"due": 60070,
+		"calorie": "15",
+		"md5": "88facdeaea76c6634ed0a64e94dd50bf",
+		"action_video_due": "13680",
+		"size": "963321",
+		"type": "video",
+		"debug_type": "video",
+		"action_id": "28"
+	}],
+	"widget": {
+		"0": [{
+			"type": "init",
+			"meta": {
+				"title": "快速出拳 60 秒",
+				"sub_title": "第一个动作",
+				"due": 9560,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"6560": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"9560": [{
+			"type": "video",
+			"meta": {
+				"title": "快速出拳 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"66630": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"69630": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 熊爬",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"129630": [{
+			"type": "init",
+			"meta": {
+				"title": "熊爬 60 秒",
+				"sub_title": "接下来训练",
+				"due": 9513,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"136143": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"139143": [{
+			"type": "video",
+			"meta": {
+				"title": "熊爬 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"196213": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"199213": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 简化波比",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"259213": [{
+			"type": "init",
+			"meta": {
+				"title": "简化波比 60 秒",
+				"sub_title": "接下来训练",
+				"due": 10117,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"266330": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"269330": [{
+			"type": "video",
+			"meta": {
+				"title": "简化波比 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"326400": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"329400": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 登山",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"389400": [{
+			"type": "init",
+			"meta": {
+				"title": "登山 60 秒",
+				"sub_title": "接下来训练",
+				"due": 9304,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"395704": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"398704": [{
+			"type": "video",
+			"meta": {
+				"title": "登山 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"455774": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"458774": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 后踢腿",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"518774": [{
+			"type": "init",
+			"meta": {
+				"title": "后踢腿 60 秒",
+				"sub_title": "接下来训练",
+				"due": 9746,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"525520": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"528520": [{
+			"type": "video",
+			"meta": {
+				"title": "后踢腿 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"585590": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"588590": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 开合跳",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"648590": [{
+			"type": "init",
+			"meta": {
+				"title": "开合跳 60 秒",
+				"sub_title": "接下来训练",
+				"due": 9583,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"655173": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"658173": [{
+			"type": "video",
+			"meta": {
+				"title": "开合跳 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"715243": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"718243": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 前后交换跳",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"778243": [{
+			"type": "init",
+			"meta": {
+				"title": "前后交换跳 60 秒",
+				"sub_title": "接下来训练",
+				"due": 10349,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"785592": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"788592": [{
+			"type": "video",
+			"meta": {
+				"title": "前后交换跳 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"845662": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}],
+		"848662": [{
+			"type": "rest_init",
+			"meta": {
+				"title": "休息一下",
+				"sub_title": "接下来 拳击跳出拳",
+				"due": 60000,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"908662": [{
+			"type": "init",
+			"meta": {
+				"title": "拳击跳出拳 60 秒",
+				"sub_title": "接下来训练",
+				"due": 10419,
+				"debug_type": "init",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"916081": [{
+			"type": "preview_countdown",
+			"meta": {
+				"title": "preview_countdown",
+				"due": 3000,
+				"debug_type": "preview"
+			}
+		}],
+		"919081": [{
+			"type": "video",
+			"meta": {
+				"title": "拳击跳出拳 60 秒",
+				"due": 60070,
+				"count": 60,
+				"count_rhythm": [],
+				"debug_type": "video",
+				"fadein": "1000",
+				"fadeout": "1000"
+			}
+		}],
+		"976151": [{
+			"type": "video_countdown",
+			"meta": {
+				"title": "video_countdown",
+				"due": 3000,
+				"debug_type": "video"
+			}
+		}]
+	},
+	"node": {
+		"0": {
+			"calorie": 0,
+			"due": 0,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "0"
+		},
+		"9560": {
+			"calorie": 0,
+			"due": 9560,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "21"
+		},
+		"69630": {
+			"calorie": 15,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "21"
+		},
+		"129630": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"139143": {
+			"calorie": 0,
+			"due": 9513,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "22"
+		},
+		"199213": {
+			"calorie": 25,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "22"
+		},
+		"259213": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"269330": {
+			"calorie": 0,
+			"due": 10117,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "23"
+		},
+		"329400": {
+			"calorie": 25,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "23"
+		},
+		"389400": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"398704": {
+			"calorie": 0,
+			"due": 9304,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "24"
+		},
+		"458774": {
+			"calorie": 20,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "24"
+		},
+		"518774": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"528520": {
+			"calorie": 0,
+			"due": 9746,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "25"
+		},
+		"588590": {
+			"calorie": 20,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "25"
+		},
+		"648590": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"658173": {
+			"calorie": 0,
+			"due": 9583,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "26"
+		},
+		"718243": {
+			"calorie": 20,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "26"
+		},
+		"778243": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"788592": {
+			"calorie": 0,
+			"due": 10349,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "27"
+		},
+		"848662": {
+			"calorie": 20,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "27"
+		},
+		"908662": {
+			"calorie": 0,
+			"due": 60000,
+			"type": "preview",
+			"is_rest": true,
+			"action_id": "38"
+		},
+		"919081": {
+			"calorie": 0,
+			"due": 10419,
+			"type": "preview",
+			"is_rest": false,
+			"action_id": "28"
+		},
+		"979151": {
+			"calorie": 15,
+			"due": 60070,
+			"type": "video",
+			"is_rest": false,
+			"action_id": "28"
+		}
+	},
+	"due": 979151,
+	"music": {
+		"album": {
+			"id": "1",
+			"name": "训练",
+			"english_name": "",
+			"image": "",
+			"songs": []
+		},
+		"song_play_mode": "1"
+	},
+	"finish_audio": {
+		"name": "训练完成，拍照打卡记录一下吧",
+		"url": "http:\/\/source.hotbody.cn\/xIWmc8gH-wZqm-bUf8-vcVd-T2famn3enEQ6.mp3",
+		"due": 3213,
+		"size": "129637",
+		"md5": "e55cfd2ca8e3f8d32b08d5803b8c6b2a"
+	},
+	"title_film_repeat_num": "-1",
+	"category": {
+		"is_relaxed": "0",
+		"is_yoga": "0",
+		"yoga_type": "0"
+	}
+}
